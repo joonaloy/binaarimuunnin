@@ -1,0 +1,2 @@
+# binaarimuunnin
+koulutehtävä
